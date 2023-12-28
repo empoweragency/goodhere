@@ -1,2 +1,2 @@
 # goodhere
-https://goodhear.org
+https://goodhere.org
